@@ -1,4 +1,11 @@
-### <img height="50" src="https://i.pinimg.com/originals/cb/e2/2d/cbe22db13550075e95c45c04d171fd5e.gif"> Hi There!
+# Hey There! <img height="80" src="https://static.wikia.nocookie.net/kirby-live-radio/images/2/24/Parasol_Kirby.gif/revision/latest/top-crop/width/360/height/450?cb=20200816131509">
+ 
+* 🎓 Bachelor of Science in Computer Science at University of Parma
+* 🔭 Currently working in Game Jams
+* 🌱 Currenly learning new game dev skills
+* 💡 Interested in Game development and programming in general
+* 👯 Looking to collaborate on Game Jams or Game projects
+
 <!-- ## <img height="40" src="https://66.media.tumblr.com/06ad37efe01d51ffc2f58363fe989653/tumblr_my74o3mTMV1rfjowdo1_500.gif"/> Section -->
 <!--
 **xPoke-glitch/xPoke-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
