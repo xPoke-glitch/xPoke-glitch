@@ -5,6 +5,7 @@
 * 🌱 Currenly learning new game dev skills
 * 💡 Interested in Game development and programming in general
 * 👯 Looking to collaborate on Game Jams or Game projects
+* ⚡ Fun fact: I love japanese animation and culture
 
 ## Languages <img height="60" src="https://i.gifer.com/origin/9b/9b7f5636e14079f70c84cd6ad99004b1_w200.gif">
 <p align="left"> 
