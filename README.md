@@ -1,6 +1,5 @@
-### Hi there 👋
-
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Section
+### <img height="50" src="https://i.pinimg.com/originals/cb/e2/2d/cbe22db13550075e95c45c04d171fd5e.gif"> Hi There!
+<!-- ## <img height="40" src="https://66.media.tumblr.com/06ad37efe01d51ffc2f58363fe989653/tumblr_my74o3mTMV1rfjowdo1_500.gif"/> Section -->
 <!--
 **xPoke-glitch/xPoke-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
