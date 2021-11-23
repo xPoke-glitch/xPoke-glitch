@@ -27,7 +27,7 @@
    <a href="https://unity.com/" target="_blank"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/> </a>
  </p>
  
- ## GitHub Stats <img height="70" src="https://c.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif">
+ ## GitHub Stats
  <a href="https://github.com/xPoke-glitch">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xPoke-glitch&show_icons=true&theme=radical" />
 </a>
