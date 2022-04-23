@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&color=4CF786&center=true&vCenter=true&multiline=true&width=550&height=120&lines=Welcome+to+my+GitHub+page!;%E2%94%82%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%94%82;+;I'm+Cristian%2C+Game+Dev)](https://git.io/typing-svg)
+
 # About Me <img height="80" src="https://static.wikia.nocookie.net/kirby-live-radio/images/2/24/Parasol_Kirby.gif/revision/latest/top-crop/width/360/height/450?cb=20200816131509">
  
 * 🎓 Bachelor of Science in Computer Science at University of Parma
