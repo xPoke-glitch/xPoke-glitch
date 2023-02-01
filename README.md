@@ -3,7 +3,7 @@
 # About Me <img height="80" src="https://static.wikia.nocookie.net/kirby-live-radio/images/2/24/Parasol_Kirby.gif/revision/latest/top-crop/width/360/height/450?cb=20200816131509">
  
 * 🎓 Bachelor of Science in Computer Science at University of Parma
-* 🔭 Currently working in Game Jams
+* 🔭 Currently working at Gamindo
 * 🌱 Currenly learning new game dev skills
 * 💡 Interested in Game development and programming in general
 * 👯 Looking to collaborate on Game Jams or Game projects
