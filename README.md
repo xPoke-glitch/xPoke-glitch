@@ -34,10 +34,10 @@
  
  ## GitHub Stats
  <a href="https://github.com/xPoke-glitch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xPoke-glitch&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xPoke-glitch&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/xPoke-glitch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPoke-glitch&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xPoke-glitch&layout=compact&theme=radical" />
 </a>
 <!-- ## <img height="40" src="https://66.media.tumblr.com/06ad37efe01d51ffc2f58363fe989653/tumblr_my74o3mTMV1rfjowdo1_500.gif"/> Section -->
 <!--
